@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_voice_assistant_chatgpt_dall_e/home_page.dart';
 import 'package:flutter_voice_assistant_chatgpt_dall_e/pallete.dart';
+
 void main() {
   runApp(const MyApp());
 }
